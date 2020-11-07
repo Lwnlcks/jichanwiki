@@ -1,0 +1,7 @@
+flask
+flask-Reggie
+tornado
+requests
+pymysql
+diff-match-patch
+pysha3; python_version < "3.6"
